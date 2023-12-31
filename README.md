@@ -52,7 +52,7 @@ Lembrando que o contexto, pessoas e perguntas são completamente fictícios.
     3. Com uma lista de onde comprar e quais as melhores para comprar.
 
 # 5. O produto final do projeto:
-Um dashboard iterativo hospedado em cloud que está disponível para acesso de qualquer dispositivo com conexão à internet. Para acessá-los basta clicar no link a seguir:(https://git-project.streamlit.app/)
+Um dashboard iterativo hospedado em cloud que está disponível para acesso de qualquer dispositivo com conexão à internet. Para acessá-los basta clicar no link a seguir:https://git-project.streamlit.app/
 
 # 6. Conclusão
 Este projeto teve como objetivo a criação de um dashboard iterativo para auxiliar o CEO da empresa na tomada de decisões, de maneira simples e rápida.  Territoriamente, existem muitas expansões possíveis para se fazerem, o novo CEO terá uma maior gama de informações e métricas relevantes sobre o negócio para elaborar uma reestruturação do planejamento de negócio que poderá levar a um outro patamar, tornando a Xtreme Groovy Bikes Sales uma das melhores empresa de motocicletas no segmento de revenda.
